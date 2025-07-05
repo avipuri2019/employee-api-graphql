@@ -60,7 +60,7 @@ A backend GraphQL API built with Node.js to manage employee records, supporting 
 ### 📦 Installation
 
 ```bash
-git clone [git@github.com:avipuri2019/employee-api-graphql.git](https://github.com/avipuri2019/employee-api-graphql.git)
+git clone https://github.com/avipuri2019/employee-api-graphql.git
 cd employee-api-graphql
 npm install
 npm run dev
